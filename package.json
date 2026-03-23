@@ -1,0 +1,11 @@
+{
+  "name": "com.nkstudio.vertexflow",
+  "displayName": "Vertex Flow",
+  "version": "0.1.0",
+  "unity": "6000.2",
+  "unityRelease": "0a7",
+  "description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25aa What the package does \n\u25aa How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
+  "changelogUrl": "https://example.com/changelog.html",
+  "documentationUrl": "https://github.com/NK-Studio/Vertex-Flow",
+  "licensesUrl": "https://example.com/licensing.html"
+}

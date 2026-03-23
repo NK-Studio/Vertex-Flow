@@ -1,0 +1,35 @@
+Key,English,Korean,Japanese
+title,Vertex Flow,버텍스 플로우,頂点ペインター
+language,Language,언어,言語
+objectInfo,Object Info,오브젝트 정보,オブジェクト情報
+selected,Selected,선택됨,選択中
+none,None,없음,なし
+vertices,Vertices,버텍스,頂点
+enablePainting,Enable Painting,페인팅 활성화,ペイントを有効化
+selectMeshFilter,Select a GameObject with a MeshFilter component,MeshFilter 컴포넌트가 있는 GameObject를 선택하세요,MeshFilterコンポーネントを持つGameObjectを選択してください
+paintingActive,Painting is ACTIVE - Move mouse over mesh in Scene View,페인팅 활성화됨 - Scene View에서 메시 위로 마우스를 이동하세요,ペイント有効 - シーンビューでメッシュ上にマウスを移動
+readyToPaint,Ready to paint - Enable painting to start,페인팅 준비됨 - 페인팅을 활성화하세요,ペイント準備完了 - 有効化して開始
+paintingNow,⚡ PAINTING NOW!,⚡ 지금 칠하는 중!,⚡ ペイント中!
+brushMode,Brush Mode,브러시 모드,ブラシモード
+paint,Paint,페인트,ペイント
+erase,Erase,지우기,消去
+smooth,Smooth,스무스,スムーズ
+brushSettings,Brush Settings,브러시 설정,ブラシ設定
+paintColor,Paint Color,페인트 색상,ペイント色
+colorPalette,Color Palette,컬러 팔레트,カラーパレット
+rgbSliders,RGB Sliders,RGB 슬라이더,RGBスライダー
+brushSize,Brush Size,브러시 크기,ブラシサイズ
+brushStrength,Brush Strength,브러시 강도,ブラシ強度
+undoRedo,Undo/Redo,실행취소/다시실행,元に戻す/やり直す
+undo,Undo ({CTRL}+Z),실행취소 ({CTRL}+Z),元に戻す ({CTRL}+Z)
+redo,Redo ({CTRL}+Y),다시실행 ({CTRL}+Y),やり直す ({CTRL}+Y)
+utilities,Utilities,유틸리티,ユーティリティ
+fillWhite,Fill White,흰색 채우기,白で塗りつぶす
+fillBlack,Fill Black,검정 채우기,黒で塗りつぶす
+fillCurrentColor,Fill Current Color,현재 색상으로 채우기,現在の色で塗りつぶす
+resetToOriginal,Reset to Original,원본으로 초기화,元に戻す
+howToUse,HOW TO USE:\n1. Select a GameObject with a MeshFilter\n2. Check 'Enable Painting'\n3. Move mouse over mesh in Scene View\n4. Left Click and drag to paint\n5. Hold {CTRL} for smoother painting\n6. Use [ and ] keys to change brush size,사용 방법:\n1. MeshFilter가 있는 GameObject 선택\n2. '페인팅 활성화' 체크\n3. Scene View에서 메시 위로 마우스 이동\n4. 좌클릭 + 드래그로 페인팅\n5. {CTRL} 키를 누르면 부드럽게 칠하기\n6. [ ] 키로 브러시 크기 조절,使い方:\n1. MeshFilterを持つGameObjectを選択\n2. 'ペイントを有効化'をチェック\n3. シーンビューでメッシュ上にマウスを移動\n4. 左クリック＋ドラッグでペイント\n5. {CTRL}を押すと滑らかにペイント\n6. [ ]キーでブラシサイズを変更
+requiresClone,Mesh must be cloned as an asset before painting.,페인팅을 하려면 먼저 메시를 에셋으로 복제하여 저장해야 합니다.,ペイントする前にメッシュをアセットとして複製する必要があります。
+cloneMeshBtn,Clone Mesh to Paint,페인팅을 위해 메시 복제 및 저장,ペイントのためにメッシュを複製して保存
+saveMeshTitle,Save Cloned Mesh,복제된 메시 저장,複製されたメッシュを保存
+paintedMeshDescription,This object has been cloned as an asset via Vertex Painter.\nIt references the cloned mesh to prevent damage to the original mesh.,이 오브젝트는 Vertex Painter를 통해 에셋으로 복제되었습니다.\n원본 매쉬의 손상을 막기 위해 복제된 매쉬를 참조하고 있습니다.,このオブジェクトはVertex Painterを通じてアセットとして複製されました。\n元のメッシュの損傷を防ぐため、複製されたメッシュを参照しています。
