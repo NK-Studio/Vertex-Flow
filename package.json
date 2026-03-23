@@ -1,11 +1,11 @@
 {
   "name": "com.nkstudio.vertexflow",
   "displayName": "Vertex Flow",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "unity": "6000.2",
   "unityRelease": "0a7",
-  "description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25aa What the package does \n\u25aa How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
-  "changelogUrl": "https://example.com/changelog.html",
+  "description": "Vertex Flow is a powerful and intuitive Unity Editor extension that allows you to easily paint vertex colors directly on your meshes. It safely clones original models to prevent damage, features a non-destructive workflow, and supports multi-language UI (English, Korean, Japanese).",
+  "changelogUrl": "https://github.com/NK-Studio/Vertex-Flow/blob/main/CHANGELOG.md",
   "documentationUrl": "https://github.com/NK-Studio/Vertex-Flow",
-  "licensesUrl": "https://example.com/licensing.html"
+  "licensesUrl": "https://github.com/NK-Studio/Vertex-Flow/blob/main/LICENSE.md"
 }
